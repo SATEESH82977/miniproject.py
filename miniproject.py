@@ -31,7 +31,7 @@ from
 
 Respected Sir/madam,
     sub:
-                   i am {name}. Studying in {class_name} section {section}. Am not able to attend the class tommorow due to {reason}.
+                   i am {student_name}. Studying in {class_name} section {section}. Am not able to attend the class tommorow due to {reason}.
 I request to grant me a leave on {date_of_leave}. I will come back to the class from very next day.
                    i hoping for you to give me the permission for this leave.
 
